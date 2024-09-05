@@ -86,3 +86,4 @@ async function sign(data, privateKey) {
 
 // Экспортируем обработчик для Vercel
 module.exports = app;
+ 
